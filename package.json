@@ -1,0 +1,22 @@
+{
+  "name": "velleman-monitor",
+  "version": "1.0.0",
+  "description": "Velleman Power Supply Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "velleman",
+    "serialport",
+    "power",
+    "supply",
+    "PS3005D"
+  ],
+  "author": "Tom de Boer <tom@tomdeboer.nl> (http://tomdeboer.nl)",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "serialport": "^4.0.1"
+  }
+}
